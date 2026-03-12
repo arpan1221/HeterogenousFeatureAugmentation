@@ -1,0 +1,28 @@
+# Data files
+*.csv
+*.xlsx
+*.xls
+*.parquet
+
+# Word docs / PDFs
+*.docx
+*.pdf
+
+# R files
+*.R
+*.Rdata
+*.rds
+
+# Model artifacts
+models/
+results/
+temp/
+content/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
